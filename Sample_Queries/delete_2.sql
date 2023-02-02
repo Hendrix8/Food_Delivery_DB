@@ -1,0 +1,3 @@
+DELETE 
+FROM DRIVER D
+WHERE D.fname = 'John'

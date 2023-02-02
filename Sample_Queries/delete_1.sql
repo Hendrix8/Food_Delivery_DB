@@ -1,0 +1,3 @@
+DELETE 
+FROM ORDERS O
+WHERE O.receipt_num = 5388124402

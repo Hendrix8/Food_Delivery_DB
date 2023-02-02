@@ -1,0 +1,3 @@
+UPDATE OWNED O
+SET O.owner_ssn = '151424040'
+WHERE O.rest_vat = '706027278';
